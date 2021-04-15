@@ -2,10 +2,10 @@
   "name": "drupal/connect_theme",
   "description": "IBM API Connect Theme",
   "type": "drupal-theme",
-  "homepage": "https://github.com/ibm-apiconnect/devportal",
+  "homepage": "https://github.com/ibmsen/devportal",
   "support": {
-    "issues": "https://github.com/ibm-apiconnect/devportal",
-    "source": "https://github.com/ibm-apiconnect/devportal"
+    "issues": "https://github.com/ibmsen/devportal",
+    "source": "https://github.com/ibmsen/devportal"
   },
   "license": "GPL-2.0+",
   "minimum-stability": "dev",
